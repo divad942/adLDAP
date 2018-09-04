@@ -1,5 +1,5 @@
 {
-    "name": "adldap/adldap",
+    "name": "blackburn2/adldap",
     "type": "library",
     "description": "A PHP LDAP Library for Active Directory Manipulation",
     "keywords": [
@@ -9,8 +9,8 @@
     ],
     "license": "LGPL-2.1",
     "support": {
-        "issues": "https://github.com/adldap/adLDAP/issues",
-        "source": "https://github.com/adldap/adLDAP"
+        "issues": "https://github.com/blackburn2/adLDAP/issues",
+        "source": "https://github.com/blackburn2/adLDAP"
     },
     "authors": [
         {
